@@ -56,10 +56,21 @@ Project Organization
 
 --------
 
-References
+Description of Steps
 ------------
-(1)
-(2)
+
+Data
+------------
+
+Notebooks
+------------
+
+Resources
+------------
+
+Contributors
+------------
+Michael Geiser (@mikegeiser)
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 # safe_haven_in_investment_process
