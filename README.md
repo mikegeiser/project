@@ -1,7 +1,9 @@
-project_name
+The role of safe haven in the investment process
 ==============================
 
-Study the role of safe haven in the investment process for institutional clients
+In the context of institutional investors operating in the Swiss market, the concept of "safe havens" plays a pivotal role in shaping investment strategies and risk management. Safe havens refer to financial assets that are perceived as stable and resilient, particularly during times of economic uncertainty or market turbulence. For institutional investors in Switzerland, renowned for its stability and financial strength, understanding and leveraging safe havens is integral to preserving and enhancing portfolio value.
+
+In the face of market volatility or geopolitical uncertainties, Swiss institutional investors often turn to traditional safe haven assets such as Swiss Francs (CHF), government bonds, and precious metals like gold. These assets are prized for their historical resilience and ability to act as a hedge against economic downturns.
 
 Project Organization
 ------------
@@ -53,6 +55,11 @@ Project Organization
 
 
 --------
+
+References
+------------
+(1)
+(2)
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 # safe_haven_in_investment_process
