@@ -70,7 +70,8 @@ Resources
 
 Contributors
 ------------
-Michael Geiser ([@mikegeiser] (https://github.com/mikegeiser))
+Michael Geiser ([@mikegeiser] (https://github.com/mikegeiser)) [mikegeiser](https://github.com/mikegeiser/)
+[@mikegeiser](https://github.com/mikegeiser/)
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 # safe_haven_in_investment_process
