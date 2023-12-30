@@ -70,7 +70,7 @@ Resources
 
 Contributors
 ------------
-Michael Geiser ([@mikegeiser](https://github.com/mikegeiser/)), Rudolf Klemetti ([@hyppywassu](https://github.com/hyppywassu)), Ethel Bole, Chloe Restrepo
+Michael Geiser ([@mikegeiser](https://github.com/mikegeiser/)), Rudolf Klemetti ([@hyppywassu](https://github.com/hyppywassu)), Ethel Bole ([@Ethelbl](https://github.com/Ethelbl)), Chloe Restrepo (@[crst2107](https://github.com/crst2107))
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 # safe_haven_in_investment_process
