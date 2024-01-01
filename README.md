@@ -69,6 +69,8 @@ Resources
 ------------
 [[1]](https://www.jstor.org/stable/44321278) Caballero, Ricardo J., et al. “The Safe Assets Shortage Conundrum.” The Journal of Economic Perspectives, vol. 31, no. 3, 2017, pp. 29–45. JSTOR.
 
+[[2]](https://doi.org/10.1186/s41937-017-0005-8) Danthine, JP., Danthine, S. On the rewards to international investing: a safe haven currency perspective. Swiss J Economics Statistics 154, 14 (2018).
+
 Contributors
 ------------
 Ethel Bole ([@Ethelbl](https://github.com/Ethelbl)), Michael Geiser ([@mikegeiser](https://github.com/mikegeiser/)), Rudolf Klemetti ([@hyppywassu](https://github.com/hyppywassu)), Chloe Restrepo ([@crst2107](https://github.com/crst2107))
