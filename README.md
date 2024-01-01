@@ -67,6 +67,7 @@ Notebooks
 
 Resources
 ------------
+[[1](https://www.jstor.org/stable/44321278)] Caballero, Ricardo J., et al. “The Safe Assets Shortage Conundrum.” The Journal of Economic Perspectives, vol. 31, no. 3, 2017, pp. 29–45. JSTOR, http://www.jstor.org/stable/44321278. Accessed 1 Jan. 2024.
 
 Contributors
 ------------
