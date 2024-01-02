@@ -71,6 +71,8 @@ Resources
 
 [[2]](https://doi.org/10.1186/s41937-017-0005-8) Danthine, JP., Danthine, S. On the rewards to international investing: a safe haven currency perspective. Swiss J Economics Statistics 154, 14 (2018).
 
+[[3]](https://journals.sagepub.com/doi/10.1177/21582440231208536) Chang, M.-S., Chen, M.-W., & Ju, P. (2023). Asymmetry in Hedges, Safe Havens, Flights and Contagion: Unconditional Quantile Regression Approach. SAGE Open, 13(4).
+
 Contributors
 ------------
 Ethel Bole ([@Ethelbl](https://github.com/Ethelbl)), Michael Geiser ([@mikegeiser](https://github.com/mikegeiser/)), Rudolf Klemetti ([@hyppywassu](https://github.com/hyppywassu)), Chloe Restrepo ([@crst2107](https://github.com/crst2107))
