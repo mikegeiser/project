@@ -73,6 +73,9 @@ Resources
 
 [[3]](https://journals.sagepub.com/doi/10.1177/21582440231208536) Chang, M.-S., Chen, M.-W., & Ju, P. (2023). Asymmetry in Hedges, Safe Havens, Flights and Contagion: Unconditional Quantile Regression Approach. SAGE Open, 13(4).
 
+[[4]](https://doi.org/10.1007/s11408-016-0277-5) Kopyl, K.A., Lee, J.BT. How safe are the safe haven assets?. Financ Mark Portf Manag 30, 453–482 (2016).
+
+
 Contributors
 ------------
 Ethel Bole ([@Ethelbl](https://github.com/Ethelbl)), Michael Geiser ([@mikegeiser](https://github.com/mikegeiser/)), Rudolf Klemetti ([@hyppywassu](https://github.com/hyppywassu)), Chloe Restrepo ([@crst2107](https://github.com/crst2107))
